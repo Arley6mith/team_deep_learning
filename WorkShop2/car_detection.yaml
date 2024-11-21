@@ -1,0 +1,7 @@
+
+path: /kaggle/working/data
+train: images/train
+val: images/val
+
+nc: 1
+names: ['car']
